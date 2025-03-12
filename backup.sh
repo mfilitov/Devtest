@@ -1,4 +1,5 @@
 #!/bin/bash
+#TESTcommit
 
 # Путь к папке, которую нужно скопировать
 SOURCE_DIR="/home/script_bash/TEST"
