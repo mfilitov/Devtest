@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 #Enter and create directory
@@ -22,3 +23,4 @@ for i in {1..10}
 do
  date > /home/script_bash/$nameDirectory/File$i.txt
 done
+#TEST commit
